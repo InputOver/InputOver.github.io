@@ -1,5 +1,17 @@
-.siteHeader {
+.title_form {
     text-align: center;
+}
+
+.Parag_centered {
+    text-align: center;
+    display: block;
+}
+
+.btn_title {
+    border: 0;
+    background-color: rgba(240, 248, 255, 0);
+    scale: 5;
+    margin: 100;
 }
 
 .btn_toprow {
